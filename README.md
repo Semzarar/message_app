@@ -58,10 +58,6 @@ python3 client.py
 When prompted, enter the server IP address.
 Start chatting securely with anyone connected to the same server.
 
-🖼️ Screenshots (optional)
-Chat UI	Image Sending
-
-	
 🧩 File Structure
 message_app/
 
