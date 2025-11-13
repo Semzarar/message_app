@@ -4,7 +4,8 @@ Message App is a lightweight, end-to-end encrypted messaging platform built in P
 It lets small groups communicate securely over a local network or private server, with automatic encryption, message history persistence, and image sharing — all without any central cloud service.
 
 
-(optional: replace with your screenshot)
+<img width="960" height="513" alt="image" src="https://github.com/user-attachments/assets/52d3d324-28f1-4ac1-8df6-4e57bacdc98e" />
+
 
 🔒 Key Features
 
