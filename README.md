@@ -3,9 +3,7 @@
 Message App is a lightweight, end-to-end encrypted messaging platform built in Python.
 It lets small groups communicate securely over a local network or private server, with automatic encryption, message history persistence, and image sharing — all without any central cloud service.
 
-
-<img width="960" height="513" alt="image" src="https://github.com/user-attachments/assets/52d3d324-28f1-4ac1-8df6-4e57bacdc98e" />
-
+<img width="745" height="526" alt="image" src="https://github.com/user-attachments/assets/c3b346ce-61c3-4945-9d7f-065bc4bdbb0a" />
 
 🔒 Key Features
 
@@ -42,11 +40,6 @@ cd message_app
 2. Install dependencies
 
 Python 3.10+ recommended.
-
-pip install -r requirements.txt
-
-
-Or manually:
 
 pip install cryptography PyQt6 Pillow aiosqlite
 
