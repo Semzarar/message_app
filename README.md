@@ -66,9 +66,7 @@ Chat UI	Image Sending
 message_app/
 │
 ├── client.py         # PyQt6-based encrypted chat client
-├── server.py         # Asyncio TCP server with SQLite message persistence
-├── chat_history.db   # Generated automatically at runtime
-└── requirements.txt  # Dependencies
+└── server.py         # Asyncio TCP server with SQLite message persistence
 
 🔐 Security Notes
 
