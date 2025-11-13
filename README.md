@@ -64,9 +64,13 @@ Chat UI	Image Sending
 	
 🧩 File Structure
 message_app/
+
 │
+
 ├── client.py         # PyQt6-based encrypted chat client
+
 └── server.py         # Asyncio TCP server with SQLite message persistence
+
 
 🔐 Security Notes
 
